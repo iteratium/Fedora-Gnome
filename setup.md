@@ -131,3 +131,11 @@ Upgrade
 ```bash
 sudo dnf update gh
 ```
+
+### Claude
+
+Install
+
+```bash
+curl -fsSL https://claude.ai/install.sh | bash
+```
