@@ -139,3 +139,13 @@ Install
 ```bash
 curl -fsSL https://claude.ai/install.sh | bash
 ```
+
+### Gnome Tweaks and Extensions
+
+```bash
+sudo dnf install gnome-tweaks
+```
+
+```bash
+flatpak install flathub com.mattjakeman.ExtensionManager
+```
